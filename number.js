@@ -7,7 +7,7 @@ let count = 0
 
 question()
 function question() {
-    const msg = !count ? `Загадано число от 0 до ${max}. Попробуйте угадать: ` : 'Повторите попытку: '
+    const msg = !count ? `Загадано число от 0 до ${101}. Попробуйте угадать: ` : 'Повторите попытку: '
     rl.question(msg, (answer) => {
         const answerNumber = parseInt(answer, 10)
         count++

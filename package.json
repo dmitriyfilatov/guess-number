@@ -17,10 +17,6 @@
   },
   "homepage": "https://github.com/dmitriyfilatov/ndse-homeworks#readme",
   "bin": {
-    "date": "date.js",
-    "number": "number.js"
-  },
-  "dependencies": {
-    "yargs": "^16.2.0"
+    "guess-number": "number.js"
   }
 }
