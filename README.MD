@@ -1,0 +1,5 @@
+Usage
+
+```sh
+guess-number
+```
