@@ -1,0 +1,26 @@
+{
+  "name": "ndse-homeworks",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriyfilatov/ndse-homeworks.git"
+  },
+  "author": "playerzeroone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitriyfilatov/ndse-homeworks/issues"
+  },
+  "homepage": "https://github.com/dmitriyfilatov/ndse-homeworks#readme",
+  "bin": {
+    "date": "date.js",
+    "number": "number.js"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
